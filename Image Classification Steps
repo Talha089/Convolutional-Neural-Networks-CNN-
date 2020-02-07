@@ -1,0 +1,6 @@
+Steps for Image Clssification
+1. Visualize Data
+2. Pre-Process : Normalize Transform
+3. Define a model before doing your research that what others have done in their model in the similar project
+4. Train your Model (By defining loss and optimization functions)
+5. Save the Best Model
